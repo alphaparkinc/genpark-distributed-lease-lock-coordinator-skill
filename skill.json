@@ -1,0 +1,9 @@
+{
+  "name": "genpark-distributed-lease-lock-coordinator-skill",
+  "version": "1.0.1",
+  "description": "In-memory distributed lease lock with monotonically increasing fencing tokens preventing multi-agent race conditions",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
